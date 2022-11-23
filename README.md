@@ -1,19 +1,9 @@
-- 👋 Hi, I’m @nine9iota
-- 👀 I’m interested in cockdb
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <h1>
-  hey there
+  Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media4.giphy.com/media/NKEt9elQ5cR68/giphy.gif)" width="100"/>
-</div>
-
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -25,6 +15,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :fire: GitHub Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nine9iota&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nine9iota&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=nine9iota&style=flat-square&color=blue" alt=""/>
 
