@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div id="header" align="center">
+<div id="header" align="">
   <img src="https://media.tenor.com/u6QYD_7DxiIAAAAd/skeet-vs-aimware-shooting-game.gif" width="420"/>
 </div>
 
