@@ -4,7 +4,7 @@
 </h1>
 
 <div id="header" align="">
-  <img src="https://media.tenor.com/u6QYD_7DxiIAAAAd/skeet-vs-aimware-shooting-game.gif" width="420"/>
+  <img src="https://i.pinimg.com/originals/5c/84/bf/5c84bfa26e8127af0201fe2e57c2d2b3.gif" width="500"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools
